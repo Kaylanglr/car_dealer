@@ -1,0 +1,3 @@
+function focusFunction() {
+    alert('open');
+}
